@@ -1,0 +1,3092 @@
+[
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "_anaconda_depends-2020.02-py37_0",
+    "name": "_anaconda_depends",
+    "platform": "win-64",
+    "version": "2020.02"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "_ipyw_jlab_nb_ext_conf-0.1.0-py37_0",
+    "name": "_ipyw_jlab_nb_ext_conf",
+    "platform": "win-64",
+    "version": "0.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "alabaster-0.7.12-py37_0",
+    "name": "alabaster",
+    "platform": "win-64",
+    "version": "0.7.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-custom-py37_1",
+    "name": "anaconda",
+    "platform": "win-64",
+    "version": "custom"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-client-1.7.2-py37_0",
+    "name": "anaconda-client",
+    "platform": "win-64",
+    "version": "1.7.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-navigator-1.9.12-py37_0",
+    "name": "anaconda-navigator",
+    "platform": "win-64",
+    "version": "1.9.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "anaconda-project-0.8.4-py_0",
+    "name": "anaconda-project",
+    "platform": "noarch",
+    "version": "0.8.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "argh-0.26.2-py37_0",
+    "name": "argh",
+    "platform": "win-64",
+    "version": "0.26.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "asn1crypto-1.3.0-py37_0",
+    "name": "asn1crypto",
+    "platform": "win-64",
+    "version": "1.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "astroid-2.4.1-py37_0",
+    "name": "astroid",
+    "platform": "win-64",
+    "version": "2.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37he774522_1",
+    "channel": "pkgs/main",
+    "dist_name": "astropy-4.0.1.post1-py37he774522_1",
+    "name": "astropy",
+    "platform": "win-64",
+    "version": "4.0.1.post1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "atomicwrites-1.4.0-py_0",
+    "name": "atomicwrites",
+    "platform": "noarch",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "attrs-19.3.0-py_0",
+    "name": "attrs",
+    "platform": "noarch",
+    "version": "19.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "autopep8-1.4.4-py_0",
+    "name": "autopep8",
+    "platform": "noarch",
+    "version": "1.4.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "babel-2.8.0-py_0",
+    "name": "babel",
+    "platform": "noarch",
+    "version": "2.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "backcall-0.1.0-py37_0",
+    "name": "backcall",
+    "platform": "win-64",
+    "version": "0.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py_2",
+    "channel": "pkgs/main",
+    "dist_name": "backports-1.0-py_2",
+    "name": "backports",
+    "platform": "noarch",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "backports.functools_lru_cache-1.6.1-py_0",
+    "name": "backports.functools_lru_cache",
+    "platform": "noarch",
+    "version": "1.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py37_2",
+    "channel": "pkgs/main",
+    "dist_name": "backports.shutil_get_terminal_size-1.0.0-py37_2",
+    "name": "backports.shutil_get_terminal_size",
+    "platform": "win-64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py_1",
+    "channel": "pkgs/main",
+    "dist_name": "backports.tempfile-1.0-py_1",
+    "name": "backports.tempfile",
+    "platform": "noarch",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py_1",
+    "channel": "pkgs/main",
+    "dist_name": "backports.weakref-1.0.post1-py_1",
+    "name": "backports.weakref",
+    "platform": "noarch",
+    "version": "1.0.post1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "bcrypt-3.1.7-py37he774522_0",
+    "name": "bcrypt",
+    "platform": "win-64",
+    "version": "3.1.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "beautifulsoup4-4.9.0-py37_0",
+    "name": "beautifulsoup4",
+    "platform": "win-64",
+    "version": "4.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "bitarray-1.2.1-py37he774522_0",
+    "name": "bitarray",
+    "platform": "win-64",
+    "version": "1.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "bkcharts-0.2-py37_0",
+    "name": "bkcharts",
+    "platform": "win-64",
+    "version": "0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "mkl",
+    "channel": "pkgs/main",
+    "dist_name": "blas-1.0-mkl",
+    "name": "blas",
+    "platform": "win-64",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "bleach-3.1.4-py_0",
+    "name": "bleach",
+    "platform": "noarch",
+    "version": "3.1.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h7bd577a_0",
+    "channel": "pkgs/main",
+    "dist_name": "blosc-1.16.3-h7bd577a_0",
+    "name": "blosc",
+    "platform": "win-64",
+    "version": "1.16.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "bokeh-2.0.2-py37_0",
+    "name": "bokeh",
+    "platform": "win-64",
+    "version": "2.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "boto-2.49.0-py37_0",
+    "name": "boto",
+    "platform": "win-64",
+    "version": "2.49.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h2a96729_0",
+    "channel": "pkgs/main",
+    "dist_name": "bottleneck-1.3.2-py37h2a96729_0",
+    "name": "bottleneck",
+    "platform": "win-64",
+    "version": "1.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "bzip2-1.0.8-he774522_0",
+    "name": "bzip2",
+    "platform": "win-64",
+    "version": "1.0.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "pkgs/main",
+    "dist_name": "ca-certificates-2020.1.1-0",
+    "name": "ca-certificates",
+    "platform": "win-64",
+    "version": "2020.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "certifi-2020.4.5.1-py37_0",
+    "name": "certifi",
+    "platform": "win-64",
+    "version": "2020.4.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h7a1dbc1_0",
+    "channel": "pkgs/main",
+    "dist_name": "cffi-1.14.0-py37h7a1dbc1_0",
+    "name": "cffi",
+    "platform": "win-64",
+    "version": "1.14.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1003,
+    "build_string": "py37_1003",
+    "channel": "pkgs/main",
+    "dist_name": "chardet-3.0.4-py37_1003",
+    "name": "chardet",
+    "platform": "win-64",
+    "version": "3.0.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "click-7.1.2-py_0",
+    "name": "click",
+    "platform": "noarch",
+    "version": "7.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "cloudpickle-1.4.1-py_0",
+    "name": "cloudpickle",
+    "platform": "noarch",
+    "version": "1.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "clyent-1.2.2-py37_1",
+    "name": "clyent",
+    "platform": "win-64",
+    "version": "1.2.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "colorama-0.4.3-py_0",
+    "name": "colorama",
+    "platform": "noarch",
+    "version": "0.4.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "comtypes-1.1.7-py37_0",
+    "name": "comtypes",
+    "platform": "win-64",
+    "version": "1.1.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-4.8.3-py37_0",
+    "name": "conda",
+    "platform": "win-64",
+    "version": "4.8.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-build-3.18.11-py37_0",
+    "name": "conda-build",
+    "platform": "win-64",
+    "version": "3.18.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-env-2.6.0-1",
+    "name": "conda-env",
+    "platform": "win-64",
+    "version": "2.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h62dcd97_0",
+    "channel": "pkgs/main",
+    "dist_name": "conda-package-handling-1.6.1-py37h62dcd97_0",
+    "name": "conda-package-handling",
+    "platform": "win-64",
+    "version": "1.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py_1",
+    "channel": "pkgs/main",
+    "dist_name": "conda-verify-3.4.2-py_1",
+    "name": "conda-verify",
+    "platform": "noarch",
+    "version": "3.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 4,
+    "build_string": "4",
+    "channel": "pkgs/main",
+    "dist_name": "console_shortcut-0.1.1-4",
+    "name": "console_shortcut",
+    "platform": "win-64",
+    "version": "0.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "contextlib2-0.6.0.post1-py_0",
+    "name": "contextlib2",
+    "platform": "noarch",
+    "version": "0.6.0.post1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h7a1dbc1_0",
+    "channel": "pkgs/main",
+    "dist_name": "cryptography-2.9.2-py37h7a1dbc1_0",
+    "name": "cryptography",
+    "platform": "win-64",
+    "version": "2.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h2a8f88b_0",
+    "channel": "pkgs/main",
+    "dist_name": "curl-7.69.1-h2a8f88b_0",
+    "name": "curl",
+    "platform": "win-64",
+    "version": "7.69.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "cycler-0.10.0-py37_0",
+    "name": "cycler",
+    "platform": "win-64",
+    "version": "0.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37ha925a31_0",
+    "channel": "pkgs/main",
+    "dist_name": "cython-0.29.17-py37ha925a31_0",
+    "name": "cython",
+    "platform": "win-64",
+    "version": "0.29.17"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "cytoolz-0.10.1-py37he774522_0",
+    "name": "cytoolz",
+    "platform": "win-64",
+    "version": "0.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "dask-2.17.2-py_0",
+    "name": "dask",
+    "platform": "noarch",
+    "version": "2.17.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "dask-core-2.17.2-py_0",
+    "name": "dask-core",
+    "platform": "noarch",
+    "version": "2.17.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "decorator-4.4.2-py_0",
+    "name": "decorator",
+    "platform": "noarch",
+    "version": "4.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "defusedxml-0.6.0-py_0",
+    "name": "defusedxml",
+    "platform": "noarch",
+    "version": "0.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "diff-match-patch-20181111-py_0",
+    "name": "diff-match-patch",
+    "platform": "noarch",
+    "version": "20181111"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "distributed-2.17.0-py37_0",
+    "name": "distributed",
+    "platform": "win-64",
+    "version": "2.17.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "docutils-0.16-py37_0",
+    "name": "docutils",
+    "platform": "win-64",
+    "version": "0.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "entrypoints-0.3-py37_0",
+    "name": "entrypoints",
+    "platform": "win-64",
+    "version": "0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "et_xmlfile-1.0.1-py37_0",
+    "name": "et_xmlfile",
+    "platform": "win-64",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "fastcache-1.1.0-py37he774522_0",
+    "name": "fastcache",
+    "platform": "win-64",
+    "version": "1.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "filelock-3.0.12-py_0",
+    "name": "filelock",
+    "platform": "noarch",
+    "version": "3.0.12"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "flake8-3.7.9-py37_0",
+    "name": "flake8",
+    "platform": "win-64",
+    "version": "3.7.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "flask-1.1.2-py_0",
+    "name": "flask",
+    "platform": "noarch",
+    "version": "1.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "ha9979f8_1",
+    "channel": "pkgs/main",
+    "dist_name": "freetype-2.9.1-ha9979f8_1",
+    "name": "freetype",
+    "platform": "win-64",
+    "version": "2.9.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "fsspec-0.7.4-py_0",
+    "name": "fsspec",
+    "platform": "noarch",
+    "version": "0.7.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "future-0.18.2-py37_0",
+    "name": "future",
+    "platform": "win-64",
+    "version": "0.18.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h38e98db_0",
+    "channel": "pkgs/main",
+    "dist_name": "get_terminal_size-1.0.0-h38e98db_0",
+    "name": "get_terminal_size",
+    "platform": "win-64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "gevent-1.4.0-py37he774522_0",
+    "name": "gevent",
+    "platform": "win-64",
+    "version": "1.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "glob2-0.7-py_0",
+    "name": "glob2",
+    "platform": "noarch",
+    "version": "0.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hfd603c8_2",
+    "channel": "pkgs/main",
+    "dist_name": "graphviz-2.38-hfd603c8_2",
+    "name": "graphviz",
+    "platform": "win-64",
+    "version": "2.38"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37hfa6e2cd_0",
+    "channel": "pkgs/main",
+    "dist_name": "greenlet-0.4.15-py37hfa6e2cd_0",
+    "name": "greenlet",
+    "platform": "win-64",
+    "version": "0.4.15"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h5e291fa_0",
+    "channel": "pkgs/main",
+    "dist_name": "h5py-2.10.0-py37h5e291fa_0",
+    "name": "h5py",
+    "platform": "win-64",
+    "version": "2.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h7ebc959_0",
+    "channel": "pkgs/main",
+    "dist_name": "hdf5-1.10.4-h7ebc959_0",
+    "name": "hdf5",
+    "platform": "win-64",
+    "version": "1.10.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "heapdict-1.0.1-py_0",
+    "name": "heapdict",
+    "platform": "noarch",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "html5lib-1.0.1-py37_0",
+    "name": "html5lib",
+    "platform": "win-64",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "hypothesis-5.11.0-py_0",
+    "name": "hypothesis",
+    "platform": "noarch",
+    "version": "5.11.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h0cc432a_1",
+    "channel": "pkgs/main",
+    "dist_name": "icc_rt-2019.0.0-h0cc432a_1",
+    "name": "icc_rt",
+    "platform": "win-64",
+    "version": "2019.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "ha925a31_3",
+    "channel": "pkgs/main",
+    "dist_name": "icu-58.2-ha925a31_3",
+    "name": "icu",
+    "platform": "win-64",
+    "version": "58.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py_1",
+    "channel": "pkgs/main",
+    "dist_name": "idna-2.9-py_1",
+    "name": "idna",
+    "platform": "noarch",
+    "version": "2.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "imageio-2.8.0-py_0",
+    "name": "imageio",
+    "platform": "noarch",
+    "version": "2.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "imagesize-1.2.0-py_0",
+    "name": "imagesize",
+    "platform": "noarch",
+    "version": "1.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "importlib-metadata-1.6.0-py37_0",
+    "name": "importlib-metadata",
+    "platform": "win-64",
+    "version": "1.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "pkgs/main",
+    "dist_name": "importlib_metadata-1.6.0-0",
+    "name": "importlib_metadata",
+    "platform": "noarch",
+    "version": "1.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 216,
+    "build_string": "216",
+    "channel": "pkgs/main",
+    "dist_name": "intel-openmp-2020.1-216",
+    "name": "intel-openmp",
+    "platform": "win-64",
+    "version": "2020.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "intervaltree-3.0.2-py_0",
+    "name": "intervaltree",
+    "platform": "noarch",
+    "version": "3.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h39e3cac_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipykernel-5.1.4-py37h39e3cac_0",
+    "name": "ipykernel",
+    "platform": "win-64",
+    "version": "5.1.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h5ca1d4c_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipython-7.13.0-py37h5ca1d4c_0",
+    "name": "ipython",
+    "platform": "win-64",
+    "version": "7.13.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipython_genutils-0.2.0-py37_0",
+    "name": "ipython_genutils",
+    "platform": "win-64",
+    "version": "0.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "ipywidgets-7.5.1-py_0",
+    "name": "ipywidgets",
+    "platform": "noarch",
+    "version": "7.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "isort-4.3.21-py37_0",
+    "name": "isort",
+    "platform": "win-64",
+    "version": "4.3.21"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "itsdangerous-1.1.0-py37_0",
+    "name": "itsdangerous",
+    "platform": "win-64",
+    "version": "1.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "jdcal-1.4.1-py_0",
+    "name": "jdcal",
+    "platform": "noarch",
+    "version": "1.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "jedi-0.15.2-py37_0",
+    "name": "jedi",
+    "platform": "win-64",
+    "version": "0.15.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "jinja2-2.11.2-py_0",
+    "name": "jinja2",
+    "platform": "noarch",
+    "version": "2.11.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "joblib-0.15.1-py_0",
+    "name": "joblib",
+    "platform": "noarch",
+    "version": "0.15.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hb83a4c4_2",
+    "channel": "pkgs/main",
+    "dist_name": "jpeg-9b-hb83a4c4_2",
+    "name": "jpeg",
+    "platform": "win-64",
+    "version": "9b"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "json5-0.9.4-py_0",
+    "name": "json5",
+    "platform": "noarch",
+    "version": "0.9.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "jsonschema-3.2.0-py37_0",
+    "name": "jsonschema",
+    "platform": "win-64",
+    "version": "3.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 7,
+    "build_string": "py37_7",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter-1.0.0-py37_7",
+    "name": "jupyter",
+    "platform": "win-64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_client-6.1.3-py_0",
+    "name": "jupyter_client",
+    "platform": "noarch",
+    "version": "6.1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_console-6.1.0-py_0",
+    "name": "jupyter_console",
+    "platform": "noarch",
+    "version": "6.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyter_core-4.6.3-py37_0",
+    "name": "jupyter_core",
+    "platform": "win-64",
+    "version": "4.6.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "pyhf63ae98_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab-1.2.6-pyhf63ae98_0",
+    "name": "jupyterlab",
+    "platform": "noarch",
+    "version": "1.2.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "jupyterlab_server-1.1.4-py_0",
+    "name": "jupyterlab_server",
+    "platform": "noarch",
+    "version": "1.1.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py37_2",
+    "channel": "pkgs/main",
+    "dist_name": "keyring-21.1.1-py37_2",
+    "name": "keyring",
+    "platform": "win-64",
+    "version": "21.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h74a9793_0",
+    "channel": "pkgs/main",
+    "dist_name": "kiwisolver-1.2.0-py37h74a9793_0",
+    "name": "kiwisolver",
+    "platform": "win-64",
+    "version": "1.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hc04afaa_0",
+    "channel": "pkgs/main",
+    "dist_name": "krb5-1.17.1-hc04afaa_0",
+    "name": "krb5",
+    "platform": "win-64",
+    "version": "1.17.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "lazy-object-proxy-1.4.3-py37he774522_0",
+    "name": "lazy-object-proxy",
+    "platform": "win-64",
+    "version": "1.4.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 5,
+    "build_string": "h0643e63_5",
+    "channel": "pkgs/main",
+    "dist_name": "libarchive-3.3.3-h0643e63_5",
+    "name": "libarchive",
+    "platform": "win-64",
+    "version": "3.3.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h2a8f88b_0",
+    "channel": "pkgs/main",
+    "dist_name": "libcurl-7.69.1-h2a8f88b_0",
+    "name": "libcurl",
+    "platform": "win-64",
+    "version": "7.69.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 7,
+    "build_string": "h1df5818_7",
+    "channel": "pkgs/main",
+    "dist_name": "libiconv-1.15-h1df5818_7",
+    "name": "libiconv",
+    "platform": "win-64",
+    "version": "1.15"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "ha925a31_0",
+    "channel": "pkgs/main",
+    "dist_name": "liblief-0.10.1-ha925a31_0",
+    "name": "liblief",
+    "platform": "win-64",
+    "version": "0.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h2a8f88b_0",
+    "channel": "pkgs/main",
+    "dist_name": "libpng-1.6.37-h2a8f88b_0",
+    "name": "libpng",
+    "platform": "win-64",
+    "version": "1.6.37"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h9d3ae62_0",
+    "channel": "pkgs/main",
+    "dist_name": "libsodium-1.0.16-h9d3ae62_0",
+    "name": "libsodium",
+    "platform": "win-64",
+    "version": "1.0.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h33f27b4_0",
+    "channel": "pkgs/main",
+    "dist_name": "libspatialindex-1.9.3-h33f27b4_0",
+    "name": "libspatialindex",
+    "platform": "win-64",
+    "version": "1.9.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h7a1dbc1_1",
+    "channel": "pkgs/main",
+    "dist_name": "libssh2-1.9.0-h7a1dbc1_1",
+    "name": "libssh2",
+    "platform": "win-64",
+    "version": "1.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h56a325e_0",
+    "channel": "pkgs/main",
+    "dist_name": "libtiff-4.1.0-h56a325e_0",
+    "name": "libtiff",
+    "platform": "win-64",
+    "version": "4.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h464c3ec_0",
+    "channel": "pkgs/main",
+    "dist_name": "libxml2-2.9.9-h464c3ec_0",
+    "name": "libxml2",
+    "platform": "win-64",
+    "version": "2.9.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h579f668_0",
+    "channel": "pkgs/main",
+    "dist_name": "libxslt-1.1.33-h579f668_0",
+    "name": "libxslt",
+    "platform": "win-64",
+    "version": "1.1.33"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37ha925a31_0",
+    "channel": "pkgs/main",
+    "dist_name": "llvmlite-0.32.1-py37ha925a31_0",
+    "name": "llvmlite",
+    "platform": "win-64",
+    "version": "0.32.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "locket-0.2.0-py37_1",
+    "name": "locket",
+    "platform": "win-64",
+    "version": "0.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h1350720_0",
+    "channel": "pkgs/main",
+    "dist_name": "lxml-4.5.0-py37h1350720_0",
+    "name": "lxml",
+    "platform": "win-64",
+    "version": "4.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h2fa13f4_0",
+    "channel": "pkgs/main",
+    "dist_name": "lz4-c-1.8.1.2-h2fa13f4_0",
+    "name": "lz4-c",
+    "platform": "win-64",
+    "version": "1.8.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "he774522_2",
+    "channel": "pkgs/main",
+    "dist_name": "lzo-2.10-he774522_2",
+    "name": "lzo",
+    "platform": "win-64",
+    "version": "2.10"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/msys2",
+    "build_number": 6,
+    "build_string": "6",
+    "channel": "pkgs/msys2",
+    "dist_name": "m2w64-gcc-libgfortran-5.3.0-6",
+    "name": "m2w64-gcc-libgfortran",
+    "platform": "win-64",
+    "version": "5.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/msys2",
+    "build_number": 7,
+    "build_string": "7",
+    "channel": "pkgs/msys2",
+    "dist_name": "m2w64-gcc-libs-5.3.0-7",
+    "name": "m2w64-gcc-libs",
+    "platform": "win-64",
+    "version": "5.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/msys2",
+    "build_number": 7,
+    "build_string": "7",
+    "channel": "pkgs/msys2",
+    "dist_name": "m2w64-gcc-libs-core-5.3.0-7",
+    "name": "m2w64-gcc-libs-core",
+    "platform": "win-64",
+    "version": "5.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/msys2",
+    "build_number": 2,
+    "build_string": "2",
+    "channel": "pkgs/msys2",
+    "dist_name": "m2w64-gmp-6.1.0-2",
+    "name": "m2w64-gmp",
+    "platform": "win-64",
+    "version": "6.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/msys2",
+    "build_number": 2,
+    "build_string": "2",
+    "channel": "pkgs/msys2",
+    "dist_name": "m2w64-libwinpthread-git-5.0.0.4634.697f757-2",
+    "name": "m2w64-libwinpthread-git",
+    "platform": "win-64",
+    "version": "5.0.0.4634.697f757"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "markupsafe-1.1.1-py37he774522_0",
+    "name": "markupsafe",
+    "platform": "win-64",
+    "version": "1.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "matplotlib-3.1.3-py37_0",
+    "name": "matplotlib",
+    "platform": "win-64",
+    "version": "3.1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h64f37c6_0",
+    "channel": "pkgs/main",
+    "dist_name": "matplotlib-base-3.1.3-py37h64f37c6_0",
+    "name": "matplotlib-base",
+    "platform": "win-64",
+    "version": "3.1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "mccabe-0.6.1-py37_1",
+    "name": "mccabe",
+    "platform": "win-64",
+    "version": "0.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "menuinst-1.4.16-py37he774522_0",
+    "name": "menuinst",
+    "platform": "win-64",
+    "version": "1.4.16"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "mistune-0.8.4-py37he774522_0",
+    "name": "mistune",
+    "platform": "win-64",
+    "version": "0.8.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 216,
+    "build_string": "216",
+    "channel": "pkgs/main",
+    "dist_name": "mkl-2020.1-216",
+    "name": "mkl",
+    "platform": "win-64",
+    "version": "2020.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37hb782905_0",
+    "channel": "pkgs/main",
+    "dist_name": "mkl-service-2.3.0-py37hb782905_0",
+    "name": "mkl-service",
+    "platform": "win-64",
+    "version": "2.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h14836fe_0",
+    "channel": "pkgs/main",
+    "dist_name": "mkl_fft-1.0.15-py37h14836fe_0",
+    "name": "mkl_fft",
+    "platform": "win-64",
+    "version": "1.0.15"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h47e9c7a_0",
+    "channel": "pkgs/main",
+    "dist_name": "mkl_random-1.1.1-py37h47e9c7a_0",
+    "name": "mkl_random",
+    "platform": "win-64",
+    "version": "1.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "mock-4.0.2-py_0",
+    "name": "mock",
+    "platform": "noarch",
+    "version": "4.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "more-itertools-8.3.0-py_0",
+    "name": "more-itertools",
+    "platform": "noarch",
+    "version": "8.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "mpmath-1.1.0-py37_0",
+    "name": "mpmath",
+    "platform": "win-64",
+    "version": "1.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37h74a9793_1",
+    "channel": "pkgs/main",
+    "dist_name": "msgpack-python-1.0.0-py37h74a9793_1",
+    "name": "msgpack-python",
+    "platform": "win-64",
+    "version": "1.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/msys2",
+    "build_number": 1,
+    "build_string": "1",
+    "channel": "pkgs/msys2",
+    "dist_name": "msys2-conda-epoch-20160418-1",
+    "name": "msys2-conda-epoch",
+    "platform": "win-64",
+    "version": "20160418"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "multipledispatch-0.6.0-py37_0",
+    "name": "multipledispatch",
+    "platform": "win-64",
+    "version": "0.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "navigator-updater-0.2.1-py37_0",
+    "name": "navigator-updater",
+    "platform": "win-64",
+    "version": "0.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbconvert-5.6.1-py37_0",
+    "name": "nbconvert",
+    "platform": "win-64",
+    "version": "5.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "nbformat-5.0.6-py_0",
+    "name": "nbformat",
+    "platform": "noarch",
+    "version": "5.0.6"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "networkx-2.4-py_0",
+    "name": "networkx",
+    "platform": "noarch",
+    "version": "2.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "nltk-3.4.5-py37_0",
+    "name": "nltk",
+    "platform": "win-64",
+    "version": "3.4.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py37_2",
+    "channel": "pkgs/main",
+    "dist_name": "nose-1.3.7-py37_2",
+    "name": "nose",
+    "platform": "win-64",
+    "version": "1.3.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "notebook-6.0.3-py37_0",
+    "name": "notebook",
+    "platform": "win-64",
+    "version": "6.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h47e9c7a_0",
+    "channel": "pkgs/main",
+    "dist_name": "numba-0.49.1-py37h47e9c7a_0",
+    "name": "numba",
+    "platform": "win-64",
+    "version": "0.49.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h25d0782_0",
+    "channel": "pkgs/main",
+    "dist_name": "numexpr-2.7.1-py37h25d0782_0",
+    "name": "numexpr",
+    "platform": "win-64",
+    "version": "2.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h93ca92e_0",
+    "channel": "pkgs/main",
+    "dist_name": "numpy-1.18.1-py37h93ca92e_0",
+    "name": "numpy",
+    "platform": "win-64",
+    "version": "1.18.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37hc3f5095_1",
+    "channel": "pkgs/main",
+    "dist_name": "numpy-base-1.18.1-py37hc3f5095_1",
+    "name": "numpy-base",
+    "platform": "win-64",
+    "version": "1.18.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "numpydoc-0.9.2-py_0",
+    "name": "numpydoc",
+    "platform": "noarch",
+    "version": "0.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "olefile-0.46-py37_0",
+    "name": "olefile",
+    "platform": "win-64",
+    "version": "0.46"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/pypi",
+    "build_number": 0,
+    "build_string": "pypi_0",
+    "channel": "pypi",
+    "dist_name": "opencv-contrib-python-3.4.2.17-pypi_0",
+    "name": "opencv-contrib-python",
+    "platform": "pypi",
+    "version": "3.4.2.17"
+  },
+  {
+    "base_url": "https://conda.anaconda.org/pypi",
+    "build_number": 0,
+    "build_string": "pypi_0",
+    "channel": "pypi",
+    "dist_name": "opencv-python-3.4.2.17-pypi_0",
+    "name": "opencv-python",
+    "platform": "pypi",
+    "version": "3.4.2.17"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "openpyxl-3.0.3-py_0",
+    "name": "openpyxl",
+    "platform": "noarch",
+    "version": "3.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "openssl-1.1.1g-he774522_0",
+    "name": "openssl",
+    "platform": "win-64",
+    "version": "1.1.1g"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "packaging-20.3-py_0",
+    "name": "packaging",
+    "platform": "noarch",
+    "version": "20.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h47e9c7a_0",
+    "channel": "pkgs/main",
+    "dist_name": "pandas-1.0.3-py37h47e9c7a_0",
+    "name": "pandas",
+    "platform": "win-64",
+    "version": "1.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "pkgs/main",
+    "dist_name": "pandoc-2.2.3.2-0",
+    "name": "pandoc",
+    "platform": "win-64",
+    "version": "2.2.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "pandocfilters-1.4.2-py37_1",
+    "name": "pandocfilters",
+    "platform": "win-64",
+    "version": "1.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "paramiko-2.7.1-py_0",
+    "name": "paramiko",
+    "platform": "noarch",
+    "version": "2.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "parso-0.5.2-py_0",
+    "name": "parso",
+    "platform": "noarch",
+    "version": "0.5.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "partd-1.1.0-py_0",
+    "name": "partd",
+    "platform": "noarch",
+    "version": "1.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "path-13.1.0-py37_0",
+    "name": "path",
+    "platform": "win-64",
+    "version": "13.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "pkgs/main",
+    "dist_name": "path.py-12.4.0-0",
+    "name": "path.py",
+    "platform": "noarch",
+    "version": "12.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pathlib2-2.3.5-py37_0",
+    "name": "pathlib2",
+    "platform": "win-64",
+    "version": "2.3.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py_1",
+    "channel": "pkgs/main",
+    "dist_name": "pathtools-0.1.2-py_1",
+    "name": "pathtools",
+    "platform": "noarch",
+    "version": "0.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "patsy-0.5.1-py37_0",
+    "name": "patsy",
+    "platform": "win-64",
+    "version": "0.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pep8-1.7.1-py37_0",
+    "name": "pep8",
+    "platform": "win-64",
+    "version": "1.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pexpect-4.8.0-py37_0",
+    "name": "pexpect",
+    "platform": "win-64",
+    "version": "4.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pickleshare-0.7.5-py37_0",
+    "name": "pickleshare",
+    "platform": "win-64",
+    "version": "0.7.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37hcc1f983_0",
+    "channel": "pkgs/main",
+    "dist_name": "pillow-7.1.2-py37hcc1f983_0",
+    "name": "pillow",
+    "platform": "win-64",
+    "version": "7.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "py37_3",
+    "channel": "pkgs/main",
+    "dist_name": "pip-20.0.2-py37_3",
+    "name": "pip",
+    "platform": "win-64",
+    "version": "20.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pkginfo-1.5.0.1-py37_0",
+    "name": "pkginfo",
+    "platform": "win-64",
+    "version": "1.5.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pluggy-0.13.1-py37_0",
+    "name": "pluggy",
+    "platform": "win-64",
+    "version": "0.13.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "ply-3.11-py37_0",
+    "name": "ply",
+    "platform": "win-64",
+    "version": "3.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "3",
+    "channel": "pkgs/main",
+    "dist_name": "powershell_shortcut-0.0.1-3",
+    "name": "powershell_shortcut",
+    "platform": "win-64",
+    "version": "0.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "prometheus_client-0.7.1-py_0",
+    "name": "prometheus_client",
+    "platform": "noarch",
+    "version": "0.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "prompt-toolkit-3.0.5-py_0",
+    "name": "prompt-toolkit",
+    "platform": "noarch",
+    "version": "3.0.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "0",
+    "channel": "pkgs/main",
+    "dist_name": "prompt_toolkit-3.0.5-0",
+    "name": "prompt_toolkit",
+    "platform": "noarch",
+    "version": "3.0.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "psutil-5.7.0-py37he774522_0",
+    "name": "psutil",
+    "platform": "win-64",
+    "version": "5.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "py-1.8.1-py_0",
+    "name": "py",
+    "platform": "noarch",
+    "version": "1.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37ha925a31_0",
+    "channel": "pkgs/main",
+    "dist_name": "py-lief-0.10.1-py37ha925a31_0",
+    "name": "py-lief",
+    "platform": "win-64",
+    "version": "0.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycodestyle-2.5.0-py37_0",
+    "name": "pycodestyle",
+    "platform": "win-64",
+    "version": "2.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycosat-0.6.3-py37he774522_0",
+    "name": "pycosat",
+    "platform": "win-64",
+    "version": "0.6.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycparser-2.20-py_0",
+    "name": "pycparser",
+    "platform": "noarch",
+    "version": "2.20"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 9,
+    "build_string": "py37hfa6e2cd_9",
+    "channel": "pkgs/main",
+    "dist_name": "pycrypto-2.6.1-py37hfa6e2cd_9",
+    "name": "pycrypto",
+    "platform": "win-64",
+    "version": "2.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h7a1dbc1_0",
+    "channel": "pkgs/main",
+    "dist_name": "pycurl-7.43.0.5-py37h7a1dbc1_0",
+    "name": "pycurl",
+    "platform": "win-64",
+    "version": "7.43.0.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pydocstyle-4.0.1-py_0",
+    "name": "pydocstyle",
+    "platform": "noarch",
+    "version": "4.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyflakes-2.1.1-py37_0",
+    "name": "pyflakes",
+    "platform": "win-64",
+    "version": "2.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pygments-2.6.1-py_0",
+    "name": "pygments",
+    "platform": "noarch",
+    "version": "2.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pylint-2.5.2-py37_0",
+    "name": "pylint",
+    "platform": "win-64",
+    "version": "2.5.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h62dcd97_0",
+    "channel": "pkgs/main",
+    "dist_name": "pynacl-1.3.0-py37h62dcd97_0",
+    "name": "pynacl",
+    "platform": "win-64",
+    "version": "1.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37ha925a31_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyodbc-4.0.30-py37ha925a31_0",
+    "name": "pyodbc",
+    "platform": "win-64",
+    "version": "4.0.30"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyopenssl-19.1.0-py37_0",
+    "name": "pyopenssl",
+    "platform": "win-64",
+    "version": "19.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyparsing-2.4.7-py_0",
+    "name": "pyparsing",
+    "platform": "noarch",
+    "version": "2.4.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py37h6538335_2",
+    "channel": "pkgs/main",
+    "dist_name": "pyqt-5.9.2-py37h6538335_2",
+    "name": "pyqt",
+    "platform": "win-64",
+    "version": "5.9.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "pyreadline-2.1-py37_1",
+    "name": "pyreadline",
+    "platform": "win-64",
+    "version": "2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyrsistent-0.16.0-py37he774522_0",
+    "name": "pyrsistent",
+    "platform": "win-64",
+    "version": "0.16.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pysocks-1.7.1-py37_0",
+    "name": "pysocks",
+    "platform": "win-64",
+    "version": "1.7.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h1da0976_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytables-3.6.1-py37h1da0976_0",
+    "name": "pytables",
+    "platform": "win-64",
+    "version": "3.6.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-5.4.2-py37_0",
+    "name": "pytest",
+    "platform": "win-64",
+    "version": "5.4.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h39e3cac_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-arraydiff-0.3-py37h39e3cac_0",
+    "name": "pytest-arraydiff",
+    "platform": "win-64",
+    "version": "0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-astropy-0.8.0-py_0",
+    "name": "pytest-astropy",
+    "platform": "noarch",
+    "version": "0.8.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-astropy-header-0.1.2-py_0",
+    "name": "pytest-astropy-header",
+    "platform": "noarch",
+    "version": "0.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-doctestplus-0.5.0-py_0",
+    "name": "pytest-doctestplus",
+    "platform": "noarch",
+    "version": "0.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-openfiles-0.5.0-py_0",
+    "name": "pytest-openfiles",
+    "platform": "noarch",
+    "version": "0.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytest-remotedata-0.3.2-py37_0",
+    "name": "pytest-remotedata",
+    "platform": "win-64",
+    "version": "0.3.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 4,
+    "build_string": "h81c818b_4",
+    "channel": "pkgs/main",
+    "dist_name": "python-3.7.7-h81c818b_4",
+    "name": "python",
+    "platform": "win-64",
+    "version": "3.7.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-dateutil-2.8.1-py_0",
+    "name": "python-dateutil",
+    "platform": "noarch",
+    "version": "2.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-jsonrpc-server-0.3.4-py_0",
+    "name": "python-jsonrpc-server",
+    "platform": "noarch",
+    "version": "0.3.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-language-server-0.31.10-py37_0",
+    "name": "python-language-server",
+    "platform": "win-64",
+    "version": "0.31.10"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "python-libarchive-c-2.9-py_0",
+    "name": "python-libarchive-c",
+    "platform": "noarch",
+    "version": "2.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "pytz-2020.1-py_0",
+    "name": "pytz",
+    "platform": "noarch",
+    "version": "2020.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "pywavelets-1.1.1-py37he774522_0",
+    "name": "pywavelets",
+    "platform": "win-64",
+    "version": "1.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37he774522_1",
+    "channel": "pkgs/main",
+    "dist_name": "pywin32-227-py37he774522_1",
+    "name": "pywin32",
+    "platform": "win-64",
+    "version": "227"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1000,
+    "build_string": "py37_1000",
+    "channel": "pkgs/main",
+    "dist_name": "pywin32-ctypes-0.2.0-py37_1000",
+    "name": "pywin32-ctypes",
+    "platform": "win-64",
+    "version": "0.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "pywinpty-0.5.7-py37_0",
+    "name": "pywinpty",
+    "platform": "win-64",
+    "version": "0.5.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyyaml-5.3.1-py37he774522_0",
+    "name": "pyyaml",
+    "platform": "win-64",
+    "version": "5.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37ha925a31_0",
+    "channel": "pkgs/main",
+    "dist_name": "pyzmq-18.1.1-py37ha925a31_0",
+    "name": "pyzmq",
+    "platform": "win-64",
+    "version": "18.1.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "qdarkstyle-2.8.1-py_0",
+    "name": "qdarkstyle",
+    "platform": "noarch",
+    "version": "2.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "vc14h73c81de_0",
+    "channel": "pkgs/main",
+    "dist_name": "qt-5.9.7-vc14h73c81de_0",
+    "name": "qt",
+    "platform": "win-64",
+    "version": "5.9.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtawesome-0.7.0-py_0",
+    "name": "qtawesome",
+    "platform": "noarch",
+    "version": "0.7.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtconsole-4.7.4-py_0",
+    "name": "qtconsole",
+    "platform": "noarch",
+    "version": "4.7.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "qtpy-1.9.0-py_0",
+    "name": "qtpy",
+    "platform": "noarch",
+    "version": "1.9.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "requests-2.23.0-py37_0",
+    "name": "requests",
+    "platform": "win-64",
+    "version": "2.23.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "rope-0.17.0-py_0",
+    "name": "rope",
+    "platform": "noarch",
+    "version": "0.17.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37h21ff451_1",
+    "channel": "pkgs/main",
+    "dist_name": "rtree-0.9.4-py37h21ff451_1",
+    "name": "rtree",
+    "platform": "win-64",
+    "version": "0.9.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "ruamel_yaml-0.15.87-py37he774522_0",
+    "name": "ruamel_yaml",
+    "platform": "win-64",
+    "version": "0.15.87"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h47e9c7a_0",
+    "channel": "pkgs/main",
+    "dist_name": "scikit-image-0.16.2-py37h47e9c7a_0",
+    "name": "scikit-image",
+    "platform": "win-64",
+    "version": "0.16.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h6288b17_0",
+    "channel": "pkgs/main",
+    "dist_name": "scikit-learn-0.22.1-py37h6288b17_0",
+    "name": "scikit-learn",
+    "platform": "win-64",
+    "version": "0.22.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h9439919_0",
+    "channel": "pkgs/main",
+    "dist_name": "scipy-1.4.1-py37h9439919_0",
+    "name": "scipy",
+    "platform": "win-64",
+    "version": "1.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "seaborn-0.10.1-py_0",
+    "name": "seaborn",
+    "platform": "noarch",
+    "version": "0.10.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "send2trash-1.5.0-py37_0",
+    "name": "send2trash",
+    "platform": "win-64",
+    "version": "1.5.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "setuptools-46.4.0-py37_0",
+    "name": "setuptools",
+    "platform": "win-64",
+    "version": "46.4.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "py37_2",
+    "channel": "pkgs/main",
+    "dist_name": "simplegeneric-0.8.1-py37_2",
+    "name": "simplegeneric",
+    "platform": "win-64",
+    "version": "0.8.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "singledispatch-3.4.0.3-py37_0",
+    "name": "singledispatch",
+    "platform": "win-64",
+    "version": "3.4.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h6538335_0",
+    "channel": "pkgs/main",
+    "dist_name": "sip-4.19.8-py37h6538335_0",
+    "name": "sip",
+    "platform": "win-64",
+    "version": "4.19.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "six-1.14.0-py37_0",
+    "name": "six",
+    "platform": "win-64",
+    "version": "1.14.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "h777316e_3",
+    "channel": "pkgs/main",
+    "dist_name": "snappy-1.1.7-h777316e_3",
+    "name": "snappy",
+    "platform": "win-64",
+    "version": "1.1.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "snowballstemmer-2.0.0-py_0",
+    "name": "snowballstemmer",
+    "platform": "noarch",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "sortedcollections-1.1.2-py37_0",
+    "name": "sortedcollections",
+    "platform": "win-64",
+    "version": "1.1.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "sortedcontainers-2.1.0-py37_0",
+    "name": "sortedcontainers",
+    "platform": "win-64",
+    "version": "2.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "soupsieve-2.0.1-py_0",
+    "name": "soupsieve",
+    "platform": "noarch",
+    "version": "2.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinx-3.0.3-py_0",
+    "name": "sphinx",
+    "platform": "noarch",
+    "version": "3.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-1.0-py37_1",
+    "name": "sphinxcontrib",
+    "platform": "win-64",
+    "version": "1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-applehelp-1.0.2-py_0",
+    "name": "sphinxcontrib-applehelp",
+    "platform": "noarch",
+    "version": "1.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-devhelp-1.0.2-py_0",
+    "name": "sphinxcontrib-devhelp",
+    "platform": "noarch",
+    "version": "1.0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-htmlhelp-1.0.3-py_0",
+    "name": "sphinxcontrib-htmlhelp",
+    "platform": "noarch",
+    "version": "1.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-jsmath-1.0.1-py_0",
+    "name": "sphinxcontrib-jsmath",
+    "platform": "noarch",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-qthelp-1.0.3-py_0",
+    "name": "sphinxcontrib-qthelp",
+    "platform": "noarch",
+    "version": "1.0.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-serializinghtml-1.1.4-py_0",
+    "name": "sphinxcontrib-serializinghtml",
+    "platform": "noarch",
+    "version": "1.1.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "sphinxcontrib-websupport-1.2.1-py_0",
+    "name": "sphinxcontrib-websupport",
+    "platform": "noarch",
+    "version": "1.2.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "spyder-4.1.3-py37_0",
+    "name": "spyder",
+    "platform": "win-64",
+    "version": "4.1.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "spyder-kernels-1.9.1-py37_0",
+    "name": "spyder-kernels",
+    "platform": "win-64",
+    "version": "1.9.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "sqlalchemy-1.3.17-py37he774522_0",
+    "name": "sqlalchemy",
+    "platform": "win-64",
+    "version": "1.3.17"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "h2a8f88b_1",
+    "channel": "pkgs/main",
+    "dist_name": "sqlite-3.31.1-h2a8f88b_1",
+    "name": "sqlite",
+    "platform": "win-64",
+    "version": "3.31.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "statsmodels-0.11.1-py37he774522_0",
+    "name": "statsmodels",
+    "platform": "win-64",
+    "version": "0.11.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "sympy-1.5.1-py37_0",
+    "name": "sympy",
+    "platform": "win-64",
+    "version": "1.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h74a9793_0",
+    "channel": "pkgs/main",
+    "dist_name": "tbb-2020.0-h74a9793_0",
+    "name": "tbb",
+    "platform": "win-64",
+    "version": "2020.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "tblib-1.6.0-py_0",
+    "name": "tblib",
+    "platform": "noarch",
+    "version": "1.6.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "terminado-0.8.3-py37_0",
+    "name": "terminado",
+    "platform": "win-64",
+    "version": "0.8.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "testpath-0.4.4-py_0",
+    "name": "testpath",
+    "platform": "noarch",
+    "version": "0.4.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "hfa6e2cd_0",
+    "channel": "pkgs/main",
+    "dist_name": "tk-8.6.8-hfa6e2cd_0",
+    "name": "tk",
+    "platform": "win-64",
+    "version": "8.6.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37h28b3542_0",
+    "channel": "pkgs/main",
+    "dist_name": "toml-0.10.0-py37h28b3542_0",
+    "name": "toml",
+    "platform": "win-64",
+    "version": "0.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "toolz-0.10.0-py_0",
+    "name": "toolz",
+    "platform": "noarch",
+    "version": "0.10.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37he774522_1",
+    "channel": "pkgs/main",
+    "dist_name": "tornado-6.0.4-py37he774522_1",
+    "name": "tornado",
+    "platform": "win-64",
+    "version": "6.0.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "tqdm-4.46.0-py_0",
+    "name": "tqdm",
+    "platform": "noarch",
+    "version": "4.46.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "traitlets-4.3.3-py37_0",
+    "name": "traitlets",
+    "platform": "win-64",
+    "version": "4.3.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "typed-ast-1.4.1-py37he774522_0",
+    "name": "typed-ast",
+    "platform": "win-64",
+    "version": "1.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "typing_extensions-3.7.4.1-py37_0",
+    "name": "typing_extensions",
+    "platform": "win-64",
+    "version": "3.7.4.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37hfa6e2cd_0",
+    "channel": "pkgs/main",
+    "dist_name": "ujson-1.35-py37hfa6e2cd_0",
+    "name": "ujson",
+    "platform": "win-64",
+    "version": "1.35"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "unicodecsv-0.14.1-py37_0",
+    "name": "unicodecsv",
+    "platform": "win-64",
+    "version": "0.14.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "urllib3-1.25.8-py37_0",
+    "name": "urllib3",
+    "platform": "win-64",
+    "version": "1.25.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 4,
+    "build_string": "h0510ff6_4",
+    "channel": "pkgs/main",
+    "dist_name": "vc-14.1-h0510ff6_4",
+    "name": "vc",
+    "platform": "win-64",
+    "version": "14.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hf0eaf9b_2",
+    "channel": "pkgs/main",
+    "dist_name": "vs2015_runtime-14.16.27012-hf0eaf9b_2",
+    "name": "vs2015_runtime",
+    "platform": "win-64",
+    "version": "14.16.27012"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "watchdog-0.10.2-py37_0",
+    "name": "watchdog",
+    "platform": "win-64",
+    "version": "0.10.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "wcwidth-0.1.9-py_0",
+    "name": "wcwidth",
+    "platform": "noarch",
+    "version": "0.1.9"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 1,
+    "build_string": "py37_1",
+    "channel": "pkgs/main",
+    "dist_name": "webencodings-0.5.1-py37_1",
+    "name": "webencodings",
+    "platform": "win-64",
+    "version": "0.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "werkzeug-1.0.1-py_0",
+    "name": "werkzeug",
+    "platform": "noarch",
+    "version": "1.0.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "wheel-0.34.2-py37_0",
+    "name": "wheel",
+    "platform": "win-64",
+    "version": "0.34.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "widgetsnbextension-3.5.1-py37_0",
+    "name": "widgetsnbextension",
+    "platform": "win-64",
+    "version": "3.5.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "win_inet_pton-1.1.0-py37_0",
+    "name": "win_inet_pton",
+    "platform": "win-64",
+    "version": "1.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "win_unicode_console-0.5-py37_0",
+    "name": "win_unicode_console",
+    "platform": "win-64",
+    "version": "0.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "wincertstore-0.2-py37_0",
+    "name": "wincertstore",
+    "platform": "win-64",
+    "version": "0.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 4,
+    "build_string": "4",
+    "channel": "pkgs/main",
+    "dist_name": "winpty-0.4.3-4",
+    "name": "winpty",
+    "platform": "win-64",
+    "version": "0.4.3"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37he774522_0",
+    "channel": "pkgs/main",
+    "dist_name": "wrapt-1.11.2-py37he774522_0",
+    "name": "wrapt",
+    "platform": "win-64",
+    "version": "1.11.2"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "xlrd-1.2.0-py37_0",
+    "name": "xlrd",
+    "platform": "win-64",
+    "version": "1.2.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "xlsxwriter-1.2.8-py_0",
+    "name": "xlsxwriter",
+    "platform": "noarch",
+    "version": "1.2.8"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "xlwings-0.19.4-py37_0",
+    "name": "xlwings",
+    "platform": "win-64",
+    "version": "0.19.4"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py37_0",
+    "channel": "pkgs/main",
+    "dist_name": "xlwt-1.3.0-py37_0",
+    "name": "xlwt",
+    "platform": "win-64",
+    "version": "1.3.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "xmltodict-0.12.0-py_0",
+    "name": "xmltodict",
+    "platform": "noarch",
+    "version": "0.12.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h62dcd97_0",
+    "channel": "pkgs/main",
+    "dist_name": "xz-5.2.5-h62dcd97_0",
+    "name": "xz",
+    "platform": "win-64",
+    "version": "5.2.5"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 2,
+    "build_string": "hc54c509_2",
+    "channel": "pkgs/main",
+    "dist_name": "yaml-0.1.7-hc54c509_2",
+    "name": "yaml",
+    "platform": "win-64",
+    "version": "0.1.7"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "yapf-0.28.0-py_0",
+    "name": "yapf",
+    "platform": "noarch",
+    "version": "0.28.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 3,
+    "build_string": "h33f27b4_3",
+    "channel": "pkgs/main",
+    "dist_name": "zeromq-4.3.1-h33f27b4_3",
+    "name": "zeromq",
+    "platform": "win-64",
+    "version": "4.3.1"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "zict-2.0.0-py_0",
+    "name": "zict",
+    "platform": "noarch",
+    "version": "2.0.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "py_0",
+    "channel": "pkgs/main",
+    "dist_name": "zipp-3.1.0-py_0",
+    "name": "zipp",
+    "platform": "noarch",
+    "version": "3.1.0"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 4,
+    "build_string": "h62dcd97_4",
+    "channel": "pkgs/main",
+    "dist_name": "zlib-1.2.11-h62dcd97_4",
+    "name": "zlib",
+    "platform": "win-64",
+    "version": "1.2.11"
+  },
+  {
+    "base_url": "https://repo.anaconda.com/pkgs/main",
+    "build_number": 0,
+    "build_string": "h508b16e_0",
+    "channel": "pkgs/main",
+    "dist_name": "zstd-1.3.7-h508b16e_0",
+    "name": "zstd",
+    "platform": "win-64",
+    "version": "1.3.7"
+  }
+]
